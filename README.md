@@ -5,7 +5,7 @@ a modern experimentation team runs: health checks, effect estimation, multiple-t
 Bayesian decision metrics, variance reduction (CUPED/CUPAC), sequential testing for safe peeking,
 uplift targeting, and test planning. All of it is shown in a Streamlit dashboard that reads like a decision memo.
 
-**Live dashboard:** _add Streamlit Cloud link_ | **Code:** https://github.com/AlexxAnthony/holdout
+**Live dashboard:** https://holdout-ab.streamlit.app | **Code:** https://github.com/AlexxAnthony/holdout
 
 ## The question
 
